@@ -1,2 +1,3 @@
 # First_project
-this is my first project (personal-portfolio)
+Author - Raj Rupapara
+this is my first repository (personal-portfolio)
