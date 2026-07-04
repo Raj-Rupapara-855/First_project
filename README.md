@@ -1,4 +1,4 @@
 # First_project
-<h1>Author - Raj Rupapara</h1>
+<h3>Author - Raj Rupapara</h3>
 <br>
 this is my first repository (personal-portfolio)
